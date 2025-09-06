@@ -1,2 +1,2 @@
-# scaling-octo-enigma
+# scaling-octo
 test
